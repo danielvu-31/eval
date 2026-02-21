@@ -1,0 +1,418 @@
+[
+    {
+        "prompt": "a concept art of a vehicle, cyberpunk",
+        "image_path": "IR/gpu0_batch0_img0.png"
+    },
+    {
+        "prompt": "desolate space, 4, octane, beautifully, epic, magical, cinematic, masterpiece",
+        "image_path": "IR/gpu0_batch0_img1.png"
+    },
+    {
+        "prompt": "medieval old king, character, hearthstone, fantasy, elegant, highly, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+        "image_path": "IR/gpu0_batch1_img0.png"
+    },
+    {
+        "prompt": "landscape photography by marc adamus, mountains with some forests, small lake in the center, fog in the background, sunrays, golden hour, high",
+        "image_path": "IR/gpu0_batch1_img1.png"
+    },
+    {
+        "prompt": "Portrait of an old sea captain, male, detailed face, fantasy, highly detailed, cinematic, art painting by greg rutkowski",
+        "image_path": "IR/gpu0_batch2_img0.png"
+    },
+    {
+        "prompt": "classic model of atoms, made out of glass marbles and chrome steel rods, studio",
+        "image_path": "IR/gpu0_batch2_img1.png"
+    },
+    {
+        "prompt": "alien landscape with futuristic portal to another alien planet, astronaut stepping through the portal",
+        "image_path": "IR/gpu0_batch3_img0.png"
+    },
+    {
+        "prompt": "full body portrait of cute girl wearing gown, d &, fantasy, portrait, highly detailed, digital painting, illustration, art by artgerm and greg rutkowski and magali villeneuve",
+        "image_path": "IR/gpu0_batch3_img1.png"
+    },
+    {
+        "prompt": "futuristic spaceship escaping event horizon of black hole, by rossdraws, by marc simonetti, by matt rutkowski, dystopian lost in space, nebula, supernova, exploding galaxy, micro detail, fantasy",
+        "image_path": "IR/gpu0_batch4_img0.png"
+    },
+    {
+        "prompt": "a bag of frozen breaded scampi with maerl spilling out",
+        "image_path": "IR/gpu0_batch4_img1.png"
+    },
+    {
+        "prompt": "plants, flowers, trees being mixed in a bowl",
+        "image_path": "IR/gpu0_batch5_img0.png"
+    },
+    {
+        "prompt": "delicious plate of food",
+        "image_path": "IR/gpu0_batch5_img1.png"
+    },
+    {
+        "prompt": "cute cats in Conceptual art style",
+        "image_path": "IR/gpu0_batch6_img0.png"
+    },
+    {
+        "prompt": "a checoslovaquian wolfdog, black and white painting",
+        "image_path": "IR/gpu0_batch6_img1.png"
+    },
+    {
+        "prompt": "cat with bunny ears",
+        "image_path": "IR/gpu0_batch7_img0.png"
+    },
+    {
+        "prompt": "a retro arcade game",
+        "image_path": "IR/gpu0_batch7_img1.png"
+    },
+    {
+        "prompt": "funny peanut butter",
+        "image_path": "IR/gpu0_batch8_img0.png"
+    },
+    {
+        "prompt": "cinematic movie scene, beautiful Product shot film still of a Syd Mead futuristic modern sleek automobile speeding down a wet street at night in cyperpunk city, motion, hard surface modeling, soft, style of Stanley Kubrick cinematography",
+        "image_path": "IR/gpu0_batch8_img1.png"
+    },
+    {
+        "prompt": "footage of an astronaut in a tropical beach",
+        "image_path": "IR/gpu0_batch9_img0.png"
+    },
+    {
+        "prompt": "A realistic photo of a man with big ears",
+        "image_path": "IR/gpu0_batch9_img1.png"
+    },
+    {
+        "prompt": "field of light blue lotus flowers, minimalistic art, elegant",
+        "image_path": "IR/gpu0_batch10_img0.png"
+    },
+    {
+        "prompt": "aerial photography forest",
+        "image_path": "IR/gpu0_batch10_img1.png"
+    },
+    {
+        "prompt": "A cheeseburger",
+        "image_path": "IR/gpu0_batch11_img0.png"
+    },
+    {
+        "prompt": "a car chilling on the beach, sunset",
+        "image_path": "IR/gpu0_batch11_img1.png"
+    },
+    {
+        "prompt": "modern oil painting Atelier",
+        "image_path": "IR/gpu0_batch12_img0.png"
+    },
+    {
+        "prompt": "photo of a interior taken with a cheap digital camera at night flash lighting",
+        "image_path": "IR/gpu0_batch12_img1.png"
+    },
+    {
+        "prompt": "a beautiful painting of the jungle in the morning with lots of smoke, fantasy art, matte painting",
+        "image_path": "IR/gpu1_batch0_img0.png"
+    },
+    {
+        "prompt": "anthropomorphic crow werecreature, photograph captured in a forest",
+        "image_path": "IR/gpu1_batch0_img1.png"
+    },
+    {
+        "prompt": "symmetry!! a hybrid medieval exquisite complex and beautiful double hatchet in the fog of magic light, painting, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+        "image_path": "IR/gpu1_batch1_img0.png"
+    },
+    {
+        "prompt": "victorian lady, painting by rossetti, daniel gerhartz, alphonse mucha, bouguereau, detailed art",
+        "image_path": "IR/gpu1_batch1_img1.png"
+    },
+    {
+        "prompt": "A majestic landscape featuring a river, mountains and a forest, A small group of birds is flying in the sky, Harsh winter, very windy, There is a man walking in a deep snow, Cinematic, very, beautiful, painting, in the, style, of Lord of the rings",
+        "image_path": "IR/gpu1_batch2_img0.png"
+    },
+    {
+        "prompt": "3D render of a cute tribal anime boy in a loincloth, fantasy, artwork, fluffy hair, mid -, winning, very very very beautiful",
+        "image_path": "IR/gpu1_batch2_img1.png"
+    },
+    {
+        "prompt": "a portrait of a cat dog",
+        "image_path": "IR/gpu1_batch3_img0.png"
+    },
+    {
+        "prompt": "tumultuous plunging waves, anime, artwork, studio ghibli, stylized, in an anime format",
+        "image_path": "IR/gpu1_batch3_img1.png"
+    },
+    {
+        "prompt": "mountains range with waterfall, purple haze, art by greg rutkowski and magali villeneuve",
+        "image_path": "IR/gpu1_batch4_img0.png"
+    },
+    {
+        "prompt": "an underwater rollercoaster, cinematic, dramatic, -",
+        "image_path": "IR/gpu1_batch4_img1.png"
+    },
+    {
+        "prompt": "botanical illustrations of many multicolored flowers",
+        "image_path": "IR/gpu1_batch5_img0.png"
+    },
+    {
+        "prompt": "view from earth atmosphere to the stars sci fi",
+        "image_path": "IR/gpu1_batch5_img1.png"
+    },
+    {
+        "prompt": "beautiful girl with curly hair, watercolor style, colorful, pastel colors, ultra detailed",
+        "image_path": "IR/gpu1_batch6_img0.png"
+    },
+    {
+        "prompt": "natural suburb with multiple low rise apartment buildings in a park like setting with green hilly lawns and lush trees, pine wooden walls, rustic, large glass windows, cobblestone, grass, white, natural pathways, natural materials, minimalist, swedish design, bright, feng shui, modern, technology, frank lloyd wright",
+        "image_path": "IR/gpu1_batch6_img1.png"
+    },
+    {
+        "prompt": "portrait of a cute cyberpunk cat, realistic, professional",
+        "image_path": "IR/gpu1_batch7_img0.png"
+    },
+    {
+        "prompt": "a photo of a very fat green parrot",
+        "image_path": "IR/gpu1_batch7_img1.png"
+    },
+    {
+        "prompt": "video game, art",
+        "image_path": "IR/gpu1_batch8_img0.png"
+    },
+    {
+        "prompt": "really cool sketchy logo, edgy aesthetic, trending",
+        "image_path": "IR/gpu1_batch8_img1.png"
+    },
+    {
+        "prompt": "a red car",
+        "image_path": "IR/gpu1_batch9_img0.png"
+    },
+    {
+        "prompt": "The End, digital art, trending",
+        "image_path": "IR/gpu1_batch9_img1.png"
+    },
+    {
+        "prompt": "surface of an alien planet",
+        "image_path": "IR/gpu1_batch10_img0.png"
+    },
+    {
+        "prompt": "greek or roman sculpture in marble of a philosopher holding a skull, in a museum background, hyperrealistic photograph in the style of bernini, golden hour",
+        "image_path": "IR/gpu1_batch10_img1.png"
+    },
+    {
+        "prompt": "a sports car, motion blur",
+        "image_path": "IR/gpu1_batch11_img0.png"
+    },
+    {
+        "prompt": "vintage classic motorcycle, moebius and ralph mcquarrie style, retro sci - fi, pulp sci - fi, technical",
+        "image_path": "IR/gpu1_batch11_img1.png"
+    },
+    {
+        "prompt": "water bottle",
+        "image_path": "IR/gpu1_batch12_img0.png"
+    },
+    {
+        "prompt": "a coffee mug made of cardboard",
+        "image_path": "IR/gpu1_batch12_img1.png"
+    },
+    {
+        "prompt": "a beautiful portrait of a beautiful woman in the jungle surrounded by pink flowers, shamanism, matte painting, fantasy art",
+        "image_path": "IR/gpu2_batch0_img0.png"
+    },
+    {
+        "prompt": "a cute cat",
+        "image_path": "IR/gpu2_batch0_img1.png"
+    },
+    {
+        "prompt": "an alien planet viewed from space, extremely, beautiful, dynamic, creative, cinematic",
+        "image_path": "IR/gpu2_batch1_img0.png"
+    },
+    {
+        "prompt": "cartoon character in a style of adventure time cartoon",
+        "image_path": "IR/gpu2_batch1_img1.png"
+    },
+    {
+        "prompt": "old man ( long white beard and a hood ) riding on lions back",
+        "image_path": "IR/gpu2_batch2_img0.png"
+    },
+    {
+        "prompt": "astronaut drifting afloat in space, in the darkness away from anyone else, alone, black background dotted with stars, realistic",
+        "image_path": "IR/gpu2_batch2_img1.png"
+    },
+    {
+        "prompt": "photo by josh pierce and prateek vatash and roman bratschi, a giant huge beautiful mid - century modern revival mansion palace with green plants and giant reflective windows on a huge scenic cliff overlooking the ocean, reflections, lighting and shadows, haze, light",
+        "image_path": "IR/gpu2_batch3_img0.png"
+    },
+    {
+        "prompt": "A foggy forest with cherry blossom leaves on the ground, liminal, quiet",
+        "image_path": "IR/gpu2_batch3_img1.png"
+    },
+    {
+        "prompt": "futuristic city street where it is raining, a row of shops including a mcdonalds are all abandoned and vandalised windows are broken, dark lighting with storm clouds",
+        "image_path": "IR/gpu2_batch4_img0.png"
+    },
+    {
+        "prompt": "desert, art by joseph, leyendecker, peter mohrbacher, ivan aivazovsky, ruan jia, reza afshar, marc simonetti",
+        "image_path": "IR/gpu2_batch4_img1.png"
+    },
+    {
+        "prompt": "small red wooden cottage by the lake, lanterns on the porch, smoke coming out of the chimney, dusk, birch trees, tranquility, two swans swimming on the lake, a wooden rowing boat, cumulus clouds, by charlie bowater, by greg rutkowski",
+        "image_path": "IR/gpu2_batch5_img0.png"
+    },
+    {
+        "prompt": "frosted glass sphere sitting on a wooden table, high, complex",
+        "image_path": "IR/gpu2_batch5_img1.png"
+    },
+    {
+        "prompt": "photograph of table shaped like an avocado, product, intricate detail",
+        "image_path": "IR/gpu2_batch6_img0.png"
+    },
+    {
+        "prompt": "logo for a coffee chain",
+        "image_path": "IR/gpu2_batch6_img1.png"
+    },
+    {
+        "prompt": "retro sci fi art of an astronaut next to jupiter in a car",
+        "image_path": "IR/gpu2_batch7_img0.png"
+    },
+    {
+        "prompt": "a nova scotia duck tolling retriever with white chest and pink nose, professional, photography, of, very",
+        "image_path": "IR/gpu2_batch7_img1.png"
+    },
+    {
+        "prompt": "a photograph of a mouldy and messy burger",
+        "image_path": "IR/gpu2_batch8_img0.png"
+    },
+    {
+        "prompt": "antique marble statue of gigachad",
+        "image_path": "IR/gpu2_batch8_img1.png"
+    },
+    {
+        "prompt": "trending on artstation",
+        "image_path": "IR/gpu2_batch9_img0.png"
+    },
+    {
+        "prompt": "February 2022",
+        "image_path": "IR/gpu2_batch9_img1.png"
+    },
+    {
+        "prompt": "roman temple ruin, soft grey and blue natural light, crepuscular rays, intricate, digital painting, illustration, art by greg rutkowski and luis rollo and uang guangjian and gil elvgren, symmetry",
+        "image_path": "IR/gpu2_batch10_img0.png"
+    },
+    {
+        "prompt": "frozen food logo",
+        "image_path": "IR/gpu2_batch10_img1.png"
+    },
+    {
+        "prompt": "Beatiful Cameraphone photograph of inside a room within an empty mall",
+        "image_path": "IR/gpu2_batch11_img0.png"
+    },
+    {
+        "prompt": "the grand hall of the sacred library oil painting by james gurney",
+        "image_path": "IR/gpu2_batch11_img1.png"
+    },
+    {
+        "prompt": "a concept art of a vehicle, cyberpunk",
+        "image_path": "IR/gpu2_batch12_img0.png"
+    },
+    {
+        "prompt": "desolate space, 4, octane, beautifully, epic, magical, cinematic, masterpiece",
+        "image_path": "IR/gpu2_batch12_img1.png"
+    },
+    {
+        "prompt": "close up photo of anthropomorphic fox animal dressed in white shirt and khaki cargo pants, fox animal, glasses",
+        "image_path": "IR/gpu3_batch0_img0.png"
+    },
+    {
+        "prompt": "a painting of an ocean with clouds and birds, day, depth, field",
+        "image_path": "IR/gpu3_batch0_img1.png"
+    },
+    {
+        "prompt": "a full body portrait of a good - lookiung girl wearing long loose gown, high, detail, cleary see face, by gaston bussiere, bayard wu, greg rutkowski, odd nerdrum, maxim verehin, dan dos santos, masterpiece, focus, cinematic lightning",
+        "image_path": "IR/gpu3_batch1_img0.png"
+    },
+    {
+        "prompt": "photograph of a futuristic cyberpunk flying car at night in the rain",
+        "image_path": "IR/gpu3_batch1_img1.png"
+    },
+    {
+        "prompt": "extremely detailed stunning beautiful futuristic smooth curvilinear museum interior, colorful, hyper, real",
+        "image_path": "IR/gpu3_batch2_img0.png"
+    },
+    {
+        "prompt": "beautiful prince, male, golden hair, high, fantasy, art by anato finnstark, joseph leyendecker, peter mohrbacher, ruan jia, marc simonetti, ayami kojima, cedric peyravernay, finnian macmanus, alphonse mucha, victo ngai",
+        "image_path": "IR/gpu3_batch2_img1.png"
+    },
+    {
+        "prompt": "dramatically lit, intricate fractal sculpture of an ancient, weathered, mossy marble sculpture of a dragonfly",
+        "image_path": "IR/gpu3_batch3_img0.png"
+    },
+    {
+        "prompt": "a modern, contemporary studio apartment interior",
+        "image_path": "IR/gpu3_batch3_img1.png"
+    },
+    {
+        "prompt": "wood logs in the shape of a square",
+        "image_path": "IR/gpu3_batch4_img0.png"
+    },
+    {
+        "prompt": "fancy treehouse mansion on top of a mountain overlooking a view of the valley magical realism detailed painting",
+        "image_path": "IR/gpu3_batch4_img1.png"
+    },
+    {
+        "prompt": "a beautiful cyborg mermaid with a long fish tail, the body has shimmering fish scales, submerged underwater, dark ocean, light filtering through, the body is entwined in seaweed and coral, highly detailed, hyper - realistic, futuristic",
+        "image_path": "IR/gpu3_batch5_img0.png"
+    },
+    {
+        "prompt": "a coin bag item from a videogame ui",
+        "image_path": "IR/gpu3_batch5_img1.png"
+    },
+    {
+        "prompt": "the sea, sunset, colorful, clear water, digital",
+        "image_path": "IR/gpu3_batch6_img0.png"
+    },
+    {
+        "prompt": "minimalist watercolor art of paris, illustration, vector",
+        "image_path": "IR/gpu3_batch6_img1.png"
+    },
+    {
+        "prompt": "a portrait oil painting of a smart man in his mid - 4 0 s, brown hair, blue eyes, salt and pepper beard, full beard, red skin, big eye brows, highly detailed, artistic, intricate",
+        "image_path": "IR/gpu3_batch7_img0.png"
+    },
+    {
+        "prompt": "face icon stylized minimalist trigun, loftis, cory behance hd by jesper ejsing, by rhads, makoto shinkai and lois van baarle, ilya kuvshinov, rossdraws global illumination",
+        "image_path": "IR/gpu3_batch7_img1.png"
+    },
+    {
+        "prompt": "atmospheric psychedelic breathtaking translucent ethereal",
+        "image_path": "IR/gpu3_batch8_img0.png"
+    },
+    {
+        "prompt": "beautiful rainbow clouds, oil painting",
+        "image_path": "IR/gpu3_batch8_img1.png"
+    },
+    {
+        "prompt": "technology",
+        "image_path": "IR/gpu3_batch9_img0.png"
+    },
+    {
+        "prompt": "a beautiful plant, aesthetic, oil, painting, pale",
+        "image_path": "IR/gpu3_batch9_img1.png"
+    },
+    {
+        "prompt": "chicken",
+        "image_path": "IR/gpu3_batch10_img0.png"
+    },
+    {
+        "prompt": "packs of bubblegum from the fifties",
+        "image_path": "IR/gpu3_batch10_img1.png"
+    },
+    {
+        "prompt": "hyperdetailed samsung store, oak parquet, black walls, digital walls, plants, light corona octane",
+        "image_path": "IR/gpu3_batch11_img0.png"
+    },
+    {
+        "prompt": "a modern style living room in a big mansion next to a giant window overlooking the pool",
+        "image_path": "IR/gpu3_batch11_img1.png"
+    },
+    {
+        "prompt": "a beautiful painting of the jungle in the morning with lots of smoke, fantasy art, matte painting",
+        "image_path": "IR/gpu3_batch12_img0.png"
+    },
+    {
+        "prompt": "anthropomorphic crow werecreature, photograph captured in a forest",
+        "image_path": "IR/gpu3_batch12_img1.png"
+    }
+]
